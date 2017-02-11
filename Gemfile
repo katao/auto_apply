@@ -38,7 +38,7 @@ gem 'capistrano-bundler'
 gem 'capistrano-rbenv', github: "capistrano/rbenv"
 gem 'capistrano-bundler'
 gem 'capistrano3-unicorn'
-gem 'capistrano-npm
+gem 'capistrano-npm'
 
 
 group :development, :test do
